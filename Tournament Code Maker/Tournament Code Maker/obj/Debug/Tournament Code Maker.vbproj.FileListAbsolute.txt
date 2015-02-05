@@ -1,0 +1,10 @@
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\bin\Debug\Tournament Code Maker.exe.config
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\bin\Debug\Tournament Code Maker.exe
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\bin\Debug\Tournament Code Maker.pdb
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\bin\Debug\Tournament Code Maker.xml
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\obj\Debug\Tournament_Code_Maker.Form1.resources
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\obj\Debug\Tournament_Code_Maker.Resources.resources
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\obj\Debug\Tournament Code Maker.vbproj.GenerateResource.Cache
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\obj\Debug\Tournament Code Maker.exe
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\obj\Debug\Tournament Code Maker.xml
+c:\users\said\documents\visual studio 2013\Projects\Tournament Code Maker\Tournament Code Maker\obj\Debug\Tournament Code Maker.pdb
